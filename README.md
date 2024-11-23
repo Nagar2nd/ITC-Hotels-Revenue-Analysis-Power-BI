@@ -2,7 +2,8 @@
 
 ## Overview  
 This project aims to explore ITC Hotels' revenue data, focusing on key areas such as revenue optimization, occupancy trends, booking behavior, and cancellations. Using **Power BI**, the analysis is presented through four dashboards designed to provide actionable insights for data-driven decision-making.  
-## Report Link : https://docs.google.com/document/d/1-NsT9RCRKJAKS2Nz3WON2QwjF1kjjC6P/edit?usp=sharing&ouid=107857076080323012434&rtpof=true&sd=true
+## Report Link :
+https://docs.google.com/document/d/1-NsT9RCRKJAKS2Nz3WON2QwjF1kjjC6P/edit?usp=sharing&ouid=107857076080323012434&rtpof=true&sd=true
 
 ## Dashboards Overview  
 ### 1. **Revenue Overview Dashboard**  
