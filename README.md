@@ -75,10 +75,10 @@ For a detailed walkthrough of the data cleaning and transformation process, chec
 - **Excel**: Initial exploration and data preparation.  
 
 ## File Structure  
-- `Dashboard.pbix`: Power BI file containing the interactive dashboard.  
-- `Datasets/`: Includes the raw and cleaned datasets used in the project.  
-- `Screenshots/`: Visuals of the dashboards for a quick preview.  
-- `Documentation/`: Detailed report on the cleaning and transformation process.  
+- `ITC Hotels Analysis.pbix`: Power BI file containing the interactive dashboard.  
+- `All .csv/`: Includes the raw and cleaned datasets used in the project.  
+- `Dashboard-Screenshots/`: Visuals of the dashboards for a quick preview.
+- `ITC Hotels Revenue Analysis Report.pdf/`: Detailed report on the cleaning and transformation process.  
 
 ## How to Use  
 1. Clone the repository:  
